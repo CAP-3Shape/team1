@@ -46,17 +46,17 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 x                                                                  x
 x                                                                  x
-x       xxxxxxxx                                                   x
-x       x      x                                                   x
-x       x      x                                                   x
-x       x      x                                                   x                    xx
+x       xxxxxxxx                                                   x                      \0/
+x       x      x                                                   x                       |
+x       x      x                                                   x                       |
+x       x      x                                                   x                    xx/ \
 x       xxxxxxxx                                                   x                 xxxxxxxx
 x                                                                  x                xx      xx
 x                                                                  x                xxx    xxx
 x                 xxxxxxxxxxxxxx                                   x                  xxxxxx
 x                 x            x                                   x                    xx
 x                 x            x                                   x                    xx
-x                 x     o      x                                   x                    xx
+x                 x     0      x                                   x                    xx
 x                 x    /|\     x                                   x                    xx
 x                 x     |      x                                   x                    xx
 x                 x    / \     x                                   x                    xx
