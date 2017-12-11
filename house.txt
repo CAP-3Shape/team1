@@ -1,5 +1,7 @@
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-      xx                                                    xx
+                            -----
+                            |   |
+        xxxxxxxxxxxxxxxxxxxx|   |xxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xx                    |   |                           xx
     xx                                                        xx
   xx                                                            xx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
