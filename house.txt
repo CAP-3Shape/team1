@@ -52,10 +52,10 @@ x                                                                  x            
 x                 xxxxxxxxxxxxxx                                   x                  xxxxxx
 x                 x            x                                   x                    xx
 x                 x            x                                   x                    xx
-x                 x            x                                   x                    xx
-x                 x            x                                   x                    xx
-x                 x            x                                   x                    xx
-x                 x            x                                   x                    xx
-x                 x            x                                   x                    xx
+x                 x     o      x                                   x                    xx
+x                 x    /|\     x                                   x                    xx
+x                 x     |      x                                   x                    xx
+x                 x    / \     x                                   x                    xx
+x                 x   /   \    x                                   x                    xx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    xx
 --------------------------------------------------------------------------------------------------------
